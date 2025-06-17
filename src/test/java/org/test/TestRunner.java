@@ -1,7 +1,10 @@
 package org.test;
 
 public class TestRunner {
-	//write a test case
+	private void test1() {
+		
+
+	}
 	
 
 }
